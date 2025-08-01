@@ -1,0 +1,8 @@
+textblob
+wikipedia
+fastapi
+uvicorn[standard]
+pytest
+pytest-cov
+black
+pylint
